@@ -1,0 +1,5 @@
+chroma_db/
+data/figures/
+__pycache__/
+*.pyc
+.venv/
